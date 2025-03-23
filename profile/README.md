@@ -28,5 +28,8 @@ Want to collaborate or learn more about our work? Get in touch!
 - **Twitter**: [@SoliceDev](https://twitter.com/SoliceDev)
 - **Discord**: [discord.gg/YmbswvPBJ4](https://discord.gg/YmbswvPBJ4)
 
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Solice-Developmental-Studios/count.svg)
+
 ---
 📌 *Solice Developmental Studios – Innovating Games & Embedded Systems.*
